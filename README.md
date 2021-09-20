@@ -10,7 +10,7 @@
 <img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966">
 
 <p> Faço programação na Alura 💻🖱 </p>
-<p> Tenho 1️⃣  5️⃣< anos </p>
-<p> Estudante do Ensino Medio✍️</p>
-	</body>
+<p> Tenho 1️⃣  5️⃣ Anos. </p>
+<p> Estudante do Ensino Medio✍️ </p>
+</body>
 </html>
