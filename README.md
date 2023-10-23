@@ -10,8 +10,5 @@
 </div>
   
   ##
- <img scr"![image](https://github.com/leonardogg123/leonardogg123/assets/88345871/43a8763b-0c10-4a94-ad01-e3c9e0b82a0a)
-">
-
-
+  <img scr"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramador&psig=AOvVaw0vOIbTPBlP1NypK8K7Gpol&ust=1698109728500000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCp_Ov9ioIDFQAAAAAdAAAAABAE">
 
